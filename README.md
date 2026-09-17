@@ -20,12 +20,12 @@ I build practical machine-learning systems across computer vision, geospatial in
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| [Deepfake Detection Under Real-World Degradation](https://github.com/sandeep848/Deepfake-Detection-Using-EfficientnetB0) | Leakage-safe benchmarking across compression, resizing, blur and compound social-media transformations | PyTorch, EfficientNet-B0, Grad-CAM, pytest |
-| [European Image Geolocation](https://github.com/sandeep848/DL_Final) | Sub-5M-parameter hierarchical geolocation with spherical decoding and offline inference | PyTorch, RegNet-Y, GeM, scikit-learn |
-| [Nuremberg Land-Cover Intelligence](https://github.com/sandeep848/ML_Project) | Sentinel-2 land-cover composition and change estimation over a 100 m urban grid | LightGBM, GeoPandas, Rasterio, Streamlit |
-| [Redshift Streaming Analytics](https://github.com/sandeep848/Redshift_Analytics) | Reproducible streaming analytics with local and cloud storage paths | Kafka, DuckDB, Redshift, Docker, Streamlit |
-| [Dual-Adapter LoRA Style Tuning](https://github.com/sandeep848/DL) | Parameter-efficient Stable Diffusion adaptation with custom-token gradient masking | Diffusers, PEFT, PyTorch |
-| [SpeechText](https://github.com/sandeep848/GoogleHackathon) | Browser audio transcription and persistence on Google Cloud | Node.js, Speech-to-Text, Firestore, App Engine |
+| [Deepfake Detection Under Real-World Degradation](https://github.com/sandeep848/deepfake-robustness-benchmark) | Leakage-safe benchmarking across compression, resizing, blur and compound social-media transformations | PyTorch, EfficientNet-B0, Grad-CAM, pytest |
+| [European Image Geolocation](https://github.com/sandeep848/european-image-geolocation) | Sub-5M-parameter hierarchical geolocation with spherical decoding and offline inference | PyTorch, RegNet-Y, GeM, scikit-learn |
+| [Nuremberg Land-Cover Intelligence](https://github.com/sandeep848/nuremberg-land-cover-ml) | Sentinel-2 land-cover composition and change estimation over a 100 m urban grid | LightGBM, GeoPandas, Rasterio, Streamlit |
+| [Redshift Streaming Analytics](https://github.com/sandeep848/redshift-streaming-analytics) | Reproducible streaming analytics with local and cloud storage paths | Kafka, DuckDB, Redshift, Docker, Streamlit |
+| [Dual-Adapter LoRA Style Tuning](https://github.com/sandeep848/stable-diffusion-lora-style-tuning) | Parameter-efficient Stable Diffusion adaptation with custom-token gradient masking | Diffusers, PEFT, PyTorch |
+| [SpeechText](https://github.com/sandeep848/google-cloud-speechtext) | Browser audio transcription and persistence on Google Cloud | Node.js, Speech-to-Text, Firestore, App Engine |
 
 ## Selected results
 
