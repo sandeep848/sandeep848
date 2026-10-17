@@ -1,61 +1,47 @@
-# Hi, I'm Sandeep Das
+# Sandeep Das
 
-**MSc Artificial Intelligence and Robotics · University of Technology Nuremberg**
+**Artificial Intelligence & Robotics MSc student · Technische Universität Nürnberg (UTN)**  
+Building and evaluating machine-learning systems in computer vision, robotics, geospatial analytics and applied AI.
 
-I build practical machine-learning systems across computer vision, geospatial intelligence, generative AI, data engineering and robotics. My work focuses on reproducible experiments, real-world robustness and deployable applications—not only model training.
+[Portfolio](https://sandeep848.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/sandeepdas0706/) · [Repositories](https://github.com/sandeep848?tab=repositories)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square)](https://sandeep848.github.io/Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandeep%20Das-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sandeepdas0706)
-[![Location](https://img.shields.io/badge/Location-Nuremberg%2C%20Germany-D12229?style=flat-square)](https://www.openstreetmap.org/search?query=Nuremberg%2C%20Germany)
+I work across the full experimental lifecycle: data pipelines, baselines, model training, stress testing, reproducibility and usable interfaces. I prefer documented trade-offs and measured results to unsupported performance claims.
 
-## Current focus
+## Selected work
 
-- Robust computer vision under compression and distribution shift
-- Efficient deep learning for deployment-constrained systems
-- Geospatial machine learning and urban-change analysis
-- LLM applications, RAG and agentic workflows
-- Reproducible research pipelines and evaluation
+| Project | Engineering or research focus |
+| --- | --- |
+| [SignBridge-ASL](https://github.com/sandeep848/SignBridge-ASL) | American Sign Language recognition research across static images, isolated video, reliability and evaluation; no verified public model release yet |
+| [Deepfake robustness benchmark](https://github.com/sandeep848/deepfake-robustness-benchmark) | Deepfake detection under compression, resizing and blur; video-grouped evaluation, calibration and uncertainty |
+| [Sim2Real-Bench](https://github.com/sandeep848/sim2real-bench) | Panda manipulation in MuJoCo/robosuite, policy robustness, failure prediction and reproducible evaluation |
+| [Nuremberg land-cover intelligence](https://github.com/sandeep848/nuremberg-land-cover-ml) | Sentinel-2, 100 m land-cover estimates, spatial cross-validation and an interactive analysis tool |
+| [European image geolocation](https://github.com/sandeep848/european-image-geolocation) | Compact hierarchical visual geolocation and spherical decoding |
+| [Cabin Atlas](https://github.com/sandeep848/Cabin-ops) | Aircraft-aware passenger/crew service application, transactional inventory and explainable recommendations |
+| [Voice Comparison Studio](https://github.com/sandeep848/Speech-cloning) | Reference-based comparison of multiple speech-synthesis engines with a separate FastAPI backend |
+| [Redshift streaming analytics](https://github.com/sandeep848/redshift-streaming-analytics) | Streaming data ingestion and analytics workflows |
 
-## Featured projects
+[Browse all repositories →](https://github.com/sandeep848?tab=repositories)
 
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [Deepfake Detection Under Real-World Degradation](https://github.com/sandeep848/deepfake-robustness-benchmark) | Leakage-safe benchmarking across compression, resizing, blur and compound social-media transformations | PyTorch, EfficientNet-B0, Grad-CAM, pytest |
-| [European Image Geolocation](https://github.com/sandeep848/european-image-geolocation) | Sub-5M-parameter hierarchical geolocation with spherical decoding and offline inference | PyTorch, RegNet-Y, GeM, scikit-learn |
-| [Nuremberg Land-Cover Intelligence](https://github.com/sandeep848/nuremberg-land-cover-ml) | Sentinel-2 land-cover composition and change estimation over a 100 m urban grid | LightGBM, GeoPandas, Rasterio, Streamlit |
-| [Redshift Streaming Analytics](https://github.com/sandeep848/redshift-streaming-analytics) | Reproducible streaming analytics with local and cloud storage paths | Kafka, DuckDB, Redshift, Docker, Streamlit |
-| [Dual-Adapter LoRA Style Tuning](https://github.com/sandeep848/stable-diffusion-lora-style-tuning) | Parameter-efficient Stable Diffusion adaptation with custom-token gradient masking | Diffusers, PEFT, PyTorch |
-| [SpeechText](https://github.com/sandeep848/google-cloud-speechtext) | Browser audio transcription and persistence on Google Cloud | Node.js, Speech-to-Text, Firestore, App Engine |
+## Research and measured outcomes
 
-## Selected results
+- **Land-cover composition:** built-up fraction, five-fold spatial CV: **MAE 0.0489 ± 0.0029**, **RMSE 0.0979 ± 0.0050**, **R² 0.9146 ± 0.0091**. Details in the [land-cover project](https://github.com/sandeep848/nuremberg-land-cover-ml).
+- **Image geolocation:** reported **150.67 km** median validation error for a **4.63M-parameter** model; see [experiment details](https://github.com/sandeep848/european-image-geolocation).
+- **ASL research:** co-authored *Deep Gesture Interpretation for American Sign Language* (2024). The newer SignBridge repository is an evolving research implementation; its current code is **not** an independently validated deployment.
 
-- **Deepfake robustness:** evaluated lightweight detection across realistic degradation tiers with ROC-AUC, calibration error and bootstrap confidence intervals.
-- **Image geolocation:** **150.67 km** validation median error using a single **4.63M-parameter** model trained from scratch.
-- **Land-cover estimation:** built-up proportion spatial CV of **0.0489 MAE**, **0.0979 RMSE** and **0.9146 R²**.
-- **Research publication:** *Deep Gesture Interpretation for American Sign Language*, using EfficientNet-B0 for 29-class recognition.
+Project-level READMEs distinguish reported experiments, tests, prototypes and work still requiring external validation.
 
-## Technical toolkit
+## Toolkit
 
-**Languages:** Python, C++, C, JavaScript, SQL  
-**Machine learning:** PyTorch, TensorFlow, Keras, scikit-learn, LightGBM, NumPy, Pandas  
-**Computer vision:** EfficientNet, ConvNeXt, RegNet, OpenCV, Grad-CAM, robustness evaluation  
-**LLM systems:** Hugging Face, LangChain, RAG, FAISS, agentic workflows  
-**Data engineering:** Kafka, DuckDB, ClickHouse, PostgreSQL, dbt  
-**Applications and tooling:** Docker, Streamlit, FastAPI, React, Git, Linux
+**Languages:** Python, C/C++, TypeScript, JavaScript, SQL  
+**ML and vision:** PyTorch, TensorFlow/Keras, scikit-learn, LightGBM, OpenCV, EfficientNet  
+**Robotics:** ROS 2, MuJoCo, NVIDIA Isaac Sim/Lab, Webots  
+**AI applications:** Hugging Face, retrieval-augmented generation, LangChain, FAISS, MCP  
+**Data and delivery:** PostgreSQL, DuckDB, Kafka, Docker, FastAPI, React, GitHub Actions
 
-## Experience
+## Background
 
-Previously worked as an **AI and Automation R&D Intern at ICAR–NBSS&LUP**, developing Python APIs and data-access automation. I am currently pursuing an MSc in Artificial Intelligence and Robotics at UTN and am interested in working-student and research opportunities involving applied AI, computer vision, speech technology and robotics.
+I am pursuing an MSc in Artificial Intelligence and Robotics at UTN in Nuremberg, Germany. Previously, as an AI & Automation R&D intern at ICAR–NBSS&LUP, I built Python APIs and automated data-access workflows.
 
-## What I value
+I am interested in applied AI, robotics, computer vision and research engineering opportunities. The best entry points are the project READMEs, which contain the actual scope, setup instructions, evaluation methods and limitations.
 
-- Measurements that reflect deployment conditions
-- Clear baselines and honest limitations
-- Leakage-safe evaluation
-- Reproducible commands and configurations
-- Small, understandable systems before unnecessary complexity
-
-## Connect
-
-- [Portfolio](https://sandeep848.github.io/Portfolio)
-- [LinkedIn](https://linkedin.com/in/sandeepdas0706)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/sandeepdas0706/) · [Portfolio](https://sandeep848.github.io/Portfolio/)
