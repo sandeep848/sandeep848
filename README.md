@@ -40,27 +40,10 @@ Some of these are still works in progress. I keep the details, experiments and l
 ## GitHub activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sandeep848&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a9bfd0&text_color=c9d1d9&icon_color=8daabc" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sandeep848&show_icons=true&hide_border=true&bg_color=ffffff&title_color=506b80&text_color=374151&icon_color=7895a7" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sandeep848&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sandeep848&hide_border=true&background=0D1117&ring=8DAABC&fire=8DAABC&currStreakLabel=A9BFD0&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sandeep848&hide_border=true&background=FFFFFF&ring=7895A7&fire=7895A7&currStreakLabel=506B80&sideLabels=374151&dates=6B7280&sideNums=374151&currStreakNum=374151" />
-    <img src="https://streak-stats.demolab.com/?user=sandeep848&theme=default&hide_border=true" alt="Contribution streak" height="165" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=sandeep848&hide_border=true&background=0D1117&ring=8DAABC&fire=8DAABC&currStreakLabel=A9BFD0&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sandeep848&bg_color=0d1117&color=a9bfd0&line=7895a7&point=c9d1d9&area=true&area_color=334155&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sandeep848&bg_color=ffffff&color=506b80&line=7895a7&point=506b80&area=true&area_color=e4ebf1&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeep848&theme=github-light&hide_border=true" alt="GitHub activity graph" width="96%" />
-  </picture>
-</p>
-
-[See my GitHub contributions](https://github.com/sandeep848?tab=overview)
+For my full contribution history and latest activity, see [my GitHub profile](https://github.com/sandeep848).
 
 ## Languages and tools
 
