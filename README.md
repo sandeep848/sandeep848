@@ -1,6 +1,6 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30" width="30" alt="developer animation" /> I'm Sandeep Das</h1>
+<h1 align="center">Hey, I'm Sandeep Das</h1>
 
-<h3 align="center">AI & Robotics MSc Student | Machine Learning · Computer Vision · Robotics · Applied AI</h3>
+<p align="center">MSc Artificial Intelligence & Robotics at UTN · Interested in machine learning, computer vision and robotics</p>
 
 <p align="center">
   <a href="https://sandeep848.github.io/Portfolio/">Portfolio</a> •
@@ -10,18 +10,19 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Animated banner" width="100%" />
 
-## 📌 About Me
+## About me
 
-I'm an **MSc Artificial Intelligence & Robotics student at Technische Universität Nürnberg (UTN)** in Germany. I develop and evaluate practical AI systems across **computer vision, robotics, speech synthesis, geospatial analytics, and data engineering**—from reproducible experiments and backend APIs to interactive applications.
+I'm studying Artificial Intelligence and Robotics at **Technische Universität Nürnberg (UTN)**. I enjoy working on projects where I can try an idea, build something useful, and see how well it actually works.
 
-- 🔬 **Research interests:** machine learning, computer vision, robotics, SLAM, multimodal AI and model robustness.
-- 🧠 **Currently building:** [Voice Comparison Studio](https://github.com/sandeep848/Speech-cloning), a tool for comparing speech-synthesis models and evaluation metrics.
-- 🦾 **Robotics:** ROS 2, MuJoCo, NVIDIA Isaac Sim/Lab and sim-to-real evaluation.
-- 🧪 **Previous experience:** AI & Automation R&D Intern at **ICAR–NBSS&LUP**, working on Python automation and applied AI prototypes.
-- 📄 **Publication:** *Deep Gesture Interpretation for American Sign Language* (2024), co-author.
-- 🌐 **Explore my work:** [Personal Portfolio](https://sandeep848.github.io/Portfolio/).
+Most of my work is around machine learning, computer vision and robotics. Lately, I've also been spending a lot of time on speech models and the tools needed to compare them.
 
-## 🚀 Featured Projects
+- Right now I'm working on [Voice Comparison Studio](https://github.com/sandeep848/Speech-cloning), where I'm bringing different voice-cloning models together and testing their outputs.
+- I've previously worked as an AI & Automation R&D intern at **ICAR–NBSS&LUP**, mainly on Python automation and AI prototypes.
+- I also co-authored *Deep Gesture Interpretation for American Sign Language* (2024).
+
+You can find more about my work on my [portfolio](https://sandeep848.github.io/Portfolio/).
+
+## Projects
 
 | Project | Focus |
 | --- | --- |
@@ -34,9 +35,9 @@ I'm an **MSc Artificial Intelligence & Robotics student at Technische Universit�
 | [Cabin Atlas](https://github.com/sandeep848/Cabin-ops) | Passenger and cabin-crew service application with inventory and recommendations. |
 | [Redshift Streaming Analytics](https://github.com/sandeep848/redshift-streaming-analytics) | Streaming ingestion and analytical data pipelines. |
 
-> Project repositories document their own implementation status, experimental results and limitations.
+Some of these are still works in progress. I keep the details, experiments and limitations in the individual repositories.
 
-## 📊 GitHub Stats & Activity
+## GitHub activity
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=sandeep848&theme=github-dark&mode=dark" alt="Sandeep's GitHub stats" width="49%" />
@@ -52,7 +53,7 @@ I'm an **MSc Artificial Intelligence & Robotics student at Technische Universit�
   <img src="https://www.gitskins.com/api/section/heatmap?username=sandeep848&theme=github-dark&mode=dark" alt="GitHub activity heatmap" width="98%" />
 </p>
 
-## 🛠️ Languages & Tools
+## Languages and tools
 
 ### Programming Languages
 
@@ -60,7 +61,7 @@ I'm an **MSc Artificial Intelligence & Robotics student at Technische Universit�
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts&perline=6" alt="Python, C++, C, Java, JavaScript and TypeScript" />
 </p>
 
-### Machine Learning, Computer Vision & Generative AI
+### AI and machine learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" alt="PyTorch, TensorFlow, scikit-learn and OpenCV" />
@@ -68,7 +69,7 @@ I'm an **MSc Artificial Intelligence & Robotics student at Technische Universit�
 
 <p align="center">NumPy · Pandas · LightGBM · XGBoost · Hugging Face · LangChain · FAISS · RAG · MCP · Whisper</p>
 
-### Robotics & Simulation
+### Robotics and simulation
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ros,linux,ubuntu&perline=3" alt="ROS, Linux and Ubuntu" />
@@ -76,7 +77,7 @@ I'm an **MSc Artificial Intelligence & Robotics student at Technische Universit�
 
 <p align="center">ROS 2 · MuJoCo · NVIDIA Isaac Sim / Isaac Lab · SLAM · Robot Perception</p>
 
-### Frontend & Backend
+### Frontend and backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,fastapi,nodejs,vite&perline=6" alt="React, HTML, CSS, FastAPI, Node.js and Vite" />
@@ -84,7 +85,7 @@ I'm an **MSc Artificial Intelligence & Robotics student at Technische Universit�
 
 <p align="center">Streamlit · REST APIs · TypeScript</p>
 
-### Databases, Data Engineering & Cloud
+### Data and cloud
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,aws,docker&perline=5" alt="PostgreSQL, MySQL, SQLite, AWS and Docker" />
@@ -92,24 +93,17 @@ I'm an **MSc Artificial Intelligence & Robotics student at Technische Universit�
 
 <p align="center">DuckDB · ClickHouse · Apache Kafka · Apache Spark · AWS S3 · GeoPandas · Google Earth Engine</p>
 
-### Developer Tools
+### Other tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,anaconda&perline=6" alt="Git, GitHub, GitHub Actions, VS Code, Postman and Anaconda" />
 </p>
 
-## 🎓 Education & Research
+## Background
 
-**MSc Artificial Intelligence & Robotics**  
-Technische Universität Nürnberg (UTN), Germany
+I'm doing my MSc in Artificial Intelligence & Robotics at UTN in Nuremberg, Germany. Before that, I spent time at ICAR–NBSS&LUP as an AI & Automation R&D intern, working with Python and applied AI. I also co-authored a paper on American Sign Language gesture interpretation.
 
-**AI & Automation R&D Intern — ICAR–NBSS&LUP**  
-Python-based automation, applied machine learning and research prototypes.
-
-**Co-author — Deep Gesture Interpretation for American Sign Language (2024)**  
-Computer vision and deep learning for gesture interpretation.
-
-## 🔗 Connect With Me
+## Get in touch
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeepdas0706/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg" alt="LinkedIn" width="35" height="35" /></a>&nbsp;&nbsp;
@@ -128,4 +122,4 @@ Computer vision and deep learning for gesture interpretation.
   <img alt="GitHub activity snake visualization" src="https://www.gitskins.com/api/section/heatmap?username=sandeep848&theme=github-dark&mode=dark&style=snake" width="100%" />
 </picture>
 
-<p align="center"><sub>Building intelligent systems, one experiment at a time.</sub></p>
+
