@@ -8,8 +8,6 @@
   <a href="https://github.com/sandeep848?tab=repositories">Projects</a>
 </p>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Animated banner" width="100%" />
-
 ## About me
 
 I'm studying Artificial Intelligence and Robotics at **Technische Universität Nürnberg (UTN)**. I enjoy working on projects where I can try an idea, build something useful, and see how well it actually works.
@@ -40,64 +38,24 @@ Some of these are still works in progress. I keep the details, experiments and l
 ## GitHub activity
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=sandeep848&theme=github-dark&mode=dark" alt="Sandeep's GitHub stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=sandeep848&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Sandeep's contribution streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeep848&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9FB3C8&text_color=C9D1D9&icon_color=8FA8B9&rank_icon=github" alt="GitHub statistics" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=sandeep848&hide_border=true&background=0D1117&ring=8FA8B9&fire=8FA8B9&currStreakLabel=9FB3C8&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub contribution streak" height="165" />
 </p>
+
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=sandeep848&theme=github-dark&mode=dark" alt="Most used languages" />
-</p>
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=sandeep848&theme=github-dark&mode=dark" alt="GitHub highlights and trophies" />
-</p>
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=sandeep848&theme=github-dark&mode=dark" alt="GitHub activity heatmap" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeep848&bg_color=0d1117&color=9fb3c8&line=7895ae&point=c9d1d9&area=true&area_color=334155&hide_border=true" alt="GitHub contribution activity" width="96%" />
 </p>
 
 ## Languages and tools
 
-### Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts&perline=6" alt="Python, C++, C, Java, JavaScript and TypeScript" />
-</p>
-
-### AI and machine learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" alt="PyTorch, TensorFlow, scikit-learn and OpenCV" />
-</p>
-
-<p align="center">NumPy · Pandas · LightGBM · XGBoost · Hugging Face · LangChain · FAISS · RAG · MCP · Whisper</p>
-
-### Robotics and simulation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ros,linux,ubuntu&perline=3" alt="ROS, Linux and Ubuntu" />
-</p>
-
-<p align="center">ROS 2 · MuJoCo · NVIDIA Isaac Sim / Isaac Lab · SLAM · Robot Perception</p>
-
-### Frontend and backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,fastapi,nodejs,vite&perline=6" alt="React, HTML, CSS, FastAPI, Node.js and Vite" />
-</p>
-
-<p align="center">Streamlit · REST APIs · TypeScript</p>
-
-### Data and cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,aws,docker&perline=5" alt="PostgreSQL, MySQL, SQLite, AWS and Docker" />
-</p>
-
-<p align="center">DuckDB · ClickHouse · Apache Kafka · Apache Spark · AWS S3 · GeoPandas · Google Earth Engine</p>
-
-### Other tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,anaconda&perline=6" alt="Git, GitHub, GitHub Actions, VS Code, Postman and Anaconda" />
-</p>
+| Area | Tools I work with |
+| --- | --- |
+| **Programming** | Python, C/C++, TypeScript, JavaScript, Java, SQL |
+| **Machine learning & AI** | PyTorch, TensorFlow, scikit-learn, OpenCV, Hugging Face, LangChain, FAISS |
+| **Robotics** | ROS 2, MuJoCo, NVIDIA Isaac Sim / Isaac Lab, SLAM |
+| **Web development** | FastAPI, React, Streamlit, HTML/CSS, Vite |
+| **Data & cloud** | PostgreSQL, SQLite, DuckDB, ClickHouse, Kafka, Spark, AWS S3 |
+| **Workflow** | Git, GitHub Actions, Docker, Linux, VS Code, Postman |
 
 ## Background
 
@@ -105,21 +63,5 @@ I'm doing my MSc in Artificial Intelligence & Robotics at UTN in Nuremberg, Germ
 
 ## Get in touch
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sandeepdas0706/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg" alt="LinkedIn" width="35" height="35" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/sandeep848"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/github.svg" alt="GitHub" width="35" height="35" /></a>&nbsp;&nbsp;
-  <a href="mailto:das364278@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/gmail.svg" alt="Email" width="35" height="35" /></a>&nbsp;&nbsp;
-  <a href="https://sandeep848.github.io/Portfolio/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/googlechrome.svg" alt="Portfolio" width="35" height="35" /></a>
-</p>
-
-<p align="center">
-  <a href="https://sandeep848.github.io/Portfolio/"><strong>Visit My Portfolio</strong></a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=sandeep848&theme=github-dark&mode=dark&style=snake" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sandeep848&theme=github-dark&mode=dark&style=snake" />
-  <img alt="GitHub activity snake visualization" src="https://www.gitskins.com/api/section/heatmap?username=sandeep848&theme=github-dark&mode=dark&style=snake" width="100%" />
-</picture>
-
+[LinkedIn](https://www.linkedin.com/in/sandeepdas0706/) · [Email](mailto:das364278@gmail.com) · [Portfolio](https://sandeep848.github.io/Portfolio/)
 
