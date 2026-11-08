@@ -8,6 +8,8 @@
   <a href="https://github.com/sandeep848?tab=repositories">Projects</a>
 </p>
 
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Animated banner" width="100%" />
+
 ## About me
 
 I'm studying Artificial Intelligence and Robotics at **Technische Universität Nürnberg (UTN)**. I enjoy working on projects where I can try an idea, build something useful, and see how well it actually works.
@@ -38,13 +40,27 @@ Some of these are still works in progress. I keep the details, experiments and l
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeep848&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9FB3C8&text_color=C9D1D9&icon_color=8FA8B9&rank_icon=github" alt="GitHub statistics" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=sandeep848&hide_border=true&background=0D1117&ring=8FA8B9&fire=8FA8B9&currStreakLabel=9FB3C8&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub contribution streak" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sandeep848&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a9bfd0&text_color=c9d1d9&icon_color=8daabc" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sandeep848&show_icons=true&hide_border=true&bg_color=ffffff&title_color=506b80&text_color=374151&icon_color=7895a7" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sandeep848&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sandeep848&hide_border=true&background=0D1117&ring=8DAABC&fire=8DAABC&currStreakLabel=A9BFD0&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sandeep848&hide_border=true&background=FFFFFF&ring=7895A7&fire=7895A7&currStreakLabel=506B80&sideLabels=374151&dates=6B7280&sideNums=374151&currStreakNum=374151" />
+    <img src="https://streak-stats.demolab.com/?user=sandeep848&theme=default&hide_border=true" alt="Contribution streak" height="165" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeep848&bg_color=0d1117&color=9fb3c8&line=7895ae&point=c9d1d9&area=true&area_color=334155&hide_border=true" alt="GitHub contribution activity" width="96%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sandeep848&bg_color=0d1117&color=a9bfd0&line=7895a7&point=c9d1d9&area=true&area_color=334155&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sandeep848&bg_color=ffffff&color=506b80&line=7895a7&point=506b80&area=true&area_color=e4ebf1&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeep848&theme=github-light&hide_border=true" alt="GitHub activity graph" width="96%" />
+  </picture>
 </p>
+
+[See my GitHub contributions](https://github.com/sandeep848?tab=overview)
 
 ## Languages and tools
 
